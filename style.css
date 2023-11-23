@@ -99,7 +99,7 @@ section {
 .hero {
     height: 100vh;
     width: 100%;
-    background-image: linear-gradient(to left, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.9)), url(/img/Picsart_23-11-15_11-01-39-879.jpg);
+    background-image: linear-gradient(to left, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.9)), url(http://127.0.0.1:5501/img/Picsart_23-11-15_11-01-39-879.jpg);
     background-position: top right;
     background-size: cover;
     display: flex;
